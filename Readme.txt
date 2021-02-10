@@ -1,2 +1,3 @@
-name = Vinutha N
-email = vinutha.na@sonata-software.com
+Vinutha N
+vinutha.na@sonata-software.com
+line 2
