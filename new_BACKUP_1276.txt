@@ -1,5 +1,8 @@
 Line 1
 Line 2
+<<<<<<< HEAD
+Line 3 
+=======
 Line 3 modified
 Line 4 modified
-Line 3 
+>>>>>>> feature
