@@ -5,3 +5,4 @@ Line 4 modified
 Line 3 
 made changed in remote
 line 5 fetch
+Line 8 is altered
